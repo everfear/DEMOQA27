@@ -7,7 +7,7 @@ repositories {
 }
 
 dependencies {
-    testimplementation(
+    testImplementation(
             "com.codeborne:selenide:7.2.3"
     )
 }
